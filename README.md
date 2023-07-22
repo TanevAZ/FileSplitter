@@ -36,3 +36,18 @@ The program uses a temporary vector to store each chunk of the file during readi
 Ensure you have a backup of your original files before splitting them, as the resulting chunks will be independent files and cannot be used as a single complete file without being reassembled in their original order.
 
 Feel free to contribute or report issues if you have any suggestions to improve the program!
+
+## Installation
+
+- Make sure you have a C++ compiler installed on your system. (GCC, Clang...)
+- Clone the repository or download the source code files to your local machine.
+```bash
+  git clone https://github.com/TanevAZ/FileSplitter.git
+  cd FileSplitter
+```
+- Compile the program using the C++ compiler your downloaded.
+- After successful compilation, you will find an executable file named "FileSplitter" in the same directory.
+
+## Screenshot
+
+![image](https://github.com/TanevAZ/FileSplitter/assets/66444552/f179b580-3d8e-432a-b5c9-219ebae1ee69)
